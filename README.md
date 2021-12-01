@@ -11,5 +11,36 @@ My solutions for 2021's Advent of Code. Pretty please don't just rip these and u
 │   ├── input.txt       # the input that I had for this day
 │   ├── part1.[lang]    # the solution code for part 1 of this day, written in [lang] (there can be multiple languages)
 │   └── part2.[lang]    # the solution code for part 2 of this day, written in [lang] (there can be multiple languages)
+├── tree.py             # grabs the current tree art from the page and prints it to your console
 └── README.md           # README file describing the overall repo
+```
+
+## Tree Art
+
+```
+                      ~   ~  ~ ~~ ~~~~~~~~~~~~~~~
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
 ```
